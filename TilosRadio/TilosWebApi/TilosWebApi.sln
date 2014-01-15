@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilosWebApi", "TilosWebApi\TilosWebApi.csproj", "{B7EBEC89-66E0-41F2-942D-63331EB4138E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://fs8:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TilosWebApi\\TilosWebApi.csproj
+		SccProjectName1 = TilosWebApi
+		SccLocalPath1 = TilosWebApi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7EBEC89-66E0-41F2-942D-63331EB4138E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EBEC89-66E0-41F2-942D-63331EB4138E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EBEC89-66E0-41F2-942D-63331EB4138E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EBEC89-66E0-41F2-942D-63331EB4138E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
