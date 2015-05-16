@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TilosWPConfig>
+  <Version>1.0</Version>
+  <AllowedVersions>
+    <Version>TilosRadio.WP7.*2.1.</Version>
+    <Version>TilosRadio.WP7.*2.2.</Version>
+  </AllowedVersions>
+  <StreamList>
+    <Stream>
+      <Id>Live256kbit</Id>
+      <AlbumArtUriKind>Relative</AlbumArtUriKind>
+      <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
+      <Album>Tilos Rádió élő adás, kiváló minőségben.</Album>
+      <Artist>Tilos Rádió</Artist>
+      <AlbumArtist>Tilos Rádió</AlbumArtist>
+      <Title>Tilos Rádió élő adás - 256kbit</Title>
+      <Url>http://stream.tilos.hu/tilos</Url>
+      <ShortTitle>256k</ShortTitle>
+      <Order>0</Order>
+    </Stream>
+    <Stream>
+      <Id>Live128kbit</Id>
+      <AlbumArtUriKind>Relative</AlbumArtUriKind>
+      <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
+      <Album>Tilos Rádió élő adás, jó minőségben.</Album>
+      <Artist>Tilos Rádió</Artist>
+      <AlbumArtist>Tilos Rádió</AlbumArtist>
+      <Title>Tilos Rádió élő adás - 128kbit</Title>
+      <Url>http://stream.tilos.hu/tilos_128.mp3</Url>
+      <ShortTitle>128k</ShortTitle>
+      <Order>1</Order>
+    </Stream>
+    <Stream>
+      <Id>Live32kbit</Id>
+      <AlbumArtUriKind>Relative</AlbumArtUriKind>
+      <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
+      <Album>Tilos Rádió élő adás.</Album>
+      <Artist>Tilos Rádió</Artist>
+      <AlbumArtist>Tilos Rádió</AlbumArtist>
+      <Title>Tilos Rádió élő adás - 32kbit</Title>
+      <Url>http://stream.tilos.hu/tilos_32.mp3</Url>
+      <ShortTitle>32k</ShortTitle>
+      <Order>2</Order>
+    </Stream>
+  </StreamList>
+</TilosWPConfig>
