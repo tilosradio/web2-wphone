@@ -49,5 +49,19 @@
       <BorderColor>#fffbb050</BorderColor>
       <WebUrl>https://www.tilos.hu</WebUrl>
     </StreamItem>
+    <StreamItem>
+      <Id>Tordas1</Id>
+      <AlbumArtUriKind>Relative</AlbumArtUriKind>
+      <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
+      <Album>Cocos Island</Album>
+      <Artist>Cocos Island</Artist>
+      <AlbumArtist>Cocos Island</AlbumArtist>
+      <Title>Tordas Radio stream from Cocos Island</Title>
+      <StreamUrl>http://stream.tilos.hu:8000/tordas_radio_online</StreamUrl>
+      <ShortTitle>Tordas</ShortTitle>
+      <Order>3</Order>
+      <BorderColor>#ffeeeeee</BorderColor>
+      <WebUrl>https://www.tilos.hu</WebUrl>
+    </StreamItem>
   </StreamList>
 </TilosConfig>
