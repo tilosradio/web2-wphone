@@ -1,12 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TilosWPConfig>
+<TilosConfig>
   <Version>1.0</Version>
-  <AllowedVersions>
+  <AllowedApps>
     <Version>TilosRadio.WP7.*2.1.</Version>
     <Version>TilosRadio.WP7.*2.2.</Version>
-  </AllowedVersions>
+    <InvalidAppMessage>Piacon van az uj Tilos Program!</InvalidAppMessage>
+  </AllowedApps>
   <StreamList>
-    <Stream>
+    <StreamItem>
       <Id>Live256kbit</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
       <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
@@ -14,11 +15,13 @@
       <Artist>Tilos Rádió</Artist>
       <AlbumArtist>Tilos Rádió</AlbumArtist>
       <Title>Tilos Rádió élő adás - 256kbit</Title>
-      <Url>http://stream.tilos.hu/tilos</Url>
+      <StreamUrl>http://stream.tilos.hu/tilos</StreamUrl>
       <ShortTitle>256k</ShortTitle>
       <Order>0</Order>
-    </Stream>
-    <Stream>
+      <BorderColor>#ffad2d1e</BorderColor>
+      <WebUrl>https://www.tilos.hu</WebUrl>
+    </StreamItem>
+    <StreamItem>
       <Id>Live128kbit</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
       <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
@@ -26,11 +29,13 @@
       <Artist>Tilos Rádió</Artist>
       <AlbumArtist>Tilos Rádió</AlbumArtist>
       <Title>Tilos Rádió élő adás - 128kbit</Title>
-      <Url>http://stream.tilos.hu/tilos_128.mp3</Url>
+      <StreamUrl>http://stream.tilos.hu/tilos_128.mp3</StreamUrl>
       <ShortTitle>128k</ShortTitle>
       <Order>1</Order>
-    </Stream>
-    <Stream>
+      <BorderColor>#ff7efe4f</BorderColor>
+      <WebUrl>https://www.tilos.hu</WebUrl>
+    </StreamItem>
+    <StreamItem>
       <Id>Live32kbit</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
       <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
@@ -38,9 +43,11 @@
       <Artist>Tilos Rádió</Artist>
       <AlbumArtist>Tilos Rádió</AlbumArtist>
       <Title>Tilos Rádió élő adás - 32kbit</Title>
-      <Url>http://stream.tilos.hu/tilos_32.mp3</Url>
+      <StreamUrl>http://stream.tilos.hu/tilos_32.mp3</StreamUrl>
       <ShortTitle>32k</ShortTitle>
       <Order>2</Order>
-    </Stream>
+      <BorderColor>#fffbb050</BorderColor>
+      <WebUrl>https://www.tilos.hu</WebUrl>
+    </StreamItem>
   </StreamList>
-</TilosWPConfig>
+</TilosConfig>
