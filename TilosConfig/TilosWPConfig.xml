@@ -63,5 +63,19 @@
       <BorderColor>#ffeeeeee</BorderColor>
       <WebUrl>https://www.tilos.hu</WebUrl>
     </StreamItem>
+    <StreamItem>
+      <Id>Maraton24h</Id>
+      <AlbumArtUriKind>Relative</AlbumArtUriKind>
+      <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
+      <Album>Tilos Maraton 2015</Album>
+      <Artist>Tilos Rádió</Artist>
+      <AlbumArtist>Tilos Rádió</AlbumArtist>
+      <Title>Tilos Rádió Maraton 2015</Title>
+      <StreamUrl>https://archive.tilos.hu/sounds/2015-Maraton.mp3</StreamUrl>
+      <ShortTitle>maraton</ShortTitle>
+      <Order>4</Order>
+      <BorderColor>#ff792345</BorderColor>
+      <WebUrl>https://www.tilos.hu</WebUrl>
+    </StreamItem>
   </StreamList>
 </TilosConfig>
