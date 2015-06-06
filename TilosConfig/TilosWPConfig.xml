@@ -71,7 +71,7 @@
       <Artist>Tilos Rádió</Artist>
       <AlbumArtist>Tilos Rádió</AlbumArtist>
       <Title>Tilos Rádió Maraton 2015</Title>
-      <StreamUrl>http://stream.tilos.hu:8000/tilos_maraton</StreamUrl>
+      <StreamUrl>http://stream.tilos.hu:8000/tilos_maraton24</StreamUrl>
       <ShortTitle>maraton</ShortTitle>
       <Order>4</Order>
       <BorderColor>#ff792345</BorderColor>
