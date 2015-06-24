@@ -63,7 +63,7 @@
       <BorderColor>#ffeeeeee</BorderColor>
       <WebUrl>https://www.tilos.hu</WebUrl>
     </StreamItem>
-    <StreamItem>
+    <!--<StreamItem>
       <Id>Maraton24h</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
       <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
@@ -76,6 +76,6 @@
       <Order>4</Order>
       <BorderColor>#ff792345</BorderColor>
       <WebUrl>https://www.tilos.hu</WebUrl>
-    </StreamItem>
+    </StreamItem>-->
   </StreamList>
 </TilosConfig>
