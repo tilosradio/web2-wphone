@@ -77,5 +77,19 @@
       <BorderColor>#ff792345</BorderColor>
       <WebUrl>https://www.tilos.hu</WebUrl>
     </StreamItem>-->
+    <StreamItem>
+      <Id>Samsara</Id>
+      <AlbumArtUriKind>Relative</AlbumArtUriKind>
+      <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
+      <Album>Samsara</Album>
+      <Artist>Tilos Rádió</Artist>
+      <AlbumArtist>Tilos Rádió</AlbumArtist>
+      <Title>Samsara Festival Live 2015</Title>
+      <StreamUrl>http://stream.tilos.hu:8000/samsara</StreamUrl>
+      <ShortTitle>samsara</ShortTitle>
+      <Order>4</Order>
+      <BorderColor>#ffFCFBCA</BorderColor>
+      <WebUrl>https://www.samsarafestival.eu</WebUrl>
+    </StreamItem>
   </StreamList>
 </TilosConfig>
