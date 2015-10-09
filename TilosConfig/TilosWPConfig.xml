@@ -91,5 +91,19 @@
       <BorderColor>#ffFCFBCA</BorderColor>
       <WebUrl>https://www.samsarafestival.eu</WebUrl>
     </StreamItem>-->
+    <StreamItem>
+      <Id>forebudapest</Id>
+      <AlbumArtUriKind>Relative</AlbumArtUriKind>
+      <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
+      <Album>7térítő fmxxx</Album>
+      <Artist>Tilos Rádió fmxxx</Artist>
+      <AlbumArtist>Tilos Rádió fmxxx</AlbumArtist>
+      <Title>7térítő fmxxx FOR!BUDAPEST</Title>
+      <StreamUrl>http://stream.tilos.hu/forebudapest</StreamUrl>
+      <ShortTitle>fmxxx</ShortTitle>
+      <Order>4</Order>
+      <BorderColor>#ff7efe4f</BorderColor>
+      <WebUrl>https://www.facebook.com/events/1609673655980889/#</WebUrl>
+    </StreamItem>
   </StreamList>
 </TilosConfig>
