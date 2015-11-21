@@ -91,19 +91,19 @@
       <BorderColor>#ffFCFBCA</BorderColor>
       <WebUrl>https://www.samsarafestival.eu</WebUrl>
     </StreamItem>-->
-    <!--<StreamItem>
-      <Id>forebudapest</Id>
+    <StreamItem>
+      <Id>bbm</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
       <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
-      <Album>7térítő fmxxx</Album>
-      <Artist>Tilos Rádió fmxxx</Artist>
-      <AlbumArtist>Tilos Rádió fmxxx</AlbumArtist>
-      <Title>7térítő fmxxx FORE!BUDAPEST</Title>
-      <StreamUrl>http://stream.tilos.hu:8000/forebudapest</StreamUrl>
-      <ShortTitle>fmxxx</ShortTitle>
+      <Album>FM XXX</Album>
+      <Artist>Tilos Rádió FM XXX BBM</Artist>
+      <AlbumArtist>Tilos Rádió FM XXX BBM</AlbumArtist>
+      <Title>FM XXX Budapest Bike Maffia</Title>
+      <StreamUrl>http://stream.tilos.hu:8000/radiomaffia</StreamUrl>
+      <ShortTitle>FM XXX BBM</ShortTitle>
       <Order>4</Order>
       <BorderColor>#ff7efe4f</BorderColor>
       <WebUrl>https://www.facebook.com/events/1609673655980889/#</WebUrl>
-    </StreamItem>-->
+    </StreamItem>
   </StreamList>
 </TilosConfig>
