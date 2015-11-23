@@ -91,7 +91,7 @@
       <BorderColor>#ffFCFBCA</BorderColor>
       <WebUrl>https://www.samsarafestival.eu</WebUrl>
     </StreamItem>-->
-    <StreamItem>
+    <!--<StreamItem>
       <Id>bbm</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
       <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
@@ -104,6 +104,6 @@
       <Order>4</Order>
       <BorderColor>#ff7efe4f</BorderColor>
       <WebUrl>https://www.facebook.com/events/1609673655980889/#</WebUrl>
-    </StreamItem>
+    </StreamItem>-->
   </StreamList>
 </TilosConfig>
