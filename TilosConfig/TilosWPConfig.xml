@@ -91,19 +91,19 @@
       <BorderColor>#ffFCFBCA</BorderColor>
       <WebUrl>https://www.samsarafestival.eu</WebUrl>
     </StreamItem>-->
-    <!--<StreamItem>
-      <Id>bbm</Id>
+    <StreamItem>
+      <Id>fmxxx</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
       <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
-      <Album>FM XXX</Album>
-      <Artist>Tilos Rádió FM XXX BBM</Artist>
-      <AlbumArtist>Tilos Rádió FM XXX BBM</AlbumArtist>
-      <Title>FM XXX Budapest Bike Maffia</Title>
-      <StreamUrl>http://stream.tilos.hu:8000/radiomaffia</StreamUrl>
-      <ShortTitle>FM XXX BBM</ShortTitle>
+      <Album>FM XXX Radio Corvin</Album>
+      <Artist>FM XXX /Tilos/</Artist>
+      <AlbumArtist>FM XXX /Tilos/</AlbumArtist>
+      <Title>FM XXX Radio Corvin</Title>
+      <StreamUrl>http://stream.tilos.hu:8000/radiocorvin</StreamUrl>
+      <ShortTitle>FM XXX Radio Corvin</ShortTitle>
       <Order>4</Order>
-      <BorderColor>#ff7efe4f</BorderColor>
-      <WebUrl>https://www.facebook.com/events/1609673655980889/#</WebUrl>
-    </StreamItem>-->
+      <BorderColor>#ffEE676D</BorderColor>
+      <WebUrl>http://heyevent.com/event/wffm3mrohkykia/fmxxx-radio-corvin</WebUrl>
+    </StreamItem>
   </StreamList>
 </TilosConfig>
