@@ -67,16 +67,31 @@
       <Id>Maraton24h</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
       <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
+      <Album>Tilos Maraton 2016 24h</Album>
+      <Artist>Tilos Rádió</Artist>
+      <AlbumArtist>Tilos Rádió</AlbumArtist>
+      <Title>Tilos Rádió Maraton 2016 24h</Title>
+      <StreamUrl>http://stream.tilos.hu/maraton24</StreamUrl>
+      <ShortTitle>maraton 24h</ShortTitle>
+      <Order>4</Order>
+      <BorderColor>#FFF5DA4F</BorderColor>
+      <WebUrl>https://www.tilos.hu</WebUrl>
+    </StreamItem>
+    <StreamItem>
+      <Id>Maraton</Id>
+      <AlbumArtUriKind>Relative</AlbumArtUriKind>
+      <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
       <Album>Tilos Maraton 2016</Album>
       <Artist>Tilos Rádió</Artist>
       <AlbumArtist>Tilos Rádió</AlbumArtist>
       <Title>Tilos Rádió Maraton 2016</Title>
-      <StreamUrl>http://stream.tilos.hu:8000/maraton24</StreamUrl>
-      <ShortTitle>maraton</ShortTitle>
-      <Order>4</Order>
+      <StreamUrl>http://stream.tilos.hu/maraton</StreamUrl>
+      <ShortTitle>maraton on air</ShortTitle>
+      <Order>5</Order>
       <BorderColor>#FFF5DA4F</BorderColor>
       <WebUrl>https://www.tilos.hu</WebUrl>
-    </StreamItem>    <!--<StreamItem>
+    </StreamItem>
+    <!--<StreamItem>
       <Id>Samsara</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
       <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
