@@ -2,9 +2,9 @@
 <TilosConfig>
   <Version>1.0</Version>
   <AllowedApps>
-    <Version>TilosRadio.WP7.*2.1.</Version>
     <Version>TilosRadio.WP7.*2.2.</Version>
-    <InvalidAppMessage>Piacon van az uj Tilos Program!</InvalidAppMessage>
+    <Version>TilosRadio.WP7.*2.3.</Version>
+    <InvalidAppMessage>Új program a boltban! Érdemes frissíteni.</InvalidAppMessage>
   </AllowedApps>
   <StreamList>
     <StreamItem>
