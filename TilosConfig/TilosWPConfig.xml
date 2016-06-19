@@ -63,7 +63,7 @@
       <BorderColor>#ffeeeeee</BorderColor>
       <WebUrl>https://www.tilos.hu</WebUrl>
     </StreamItem>-->
-    <StreamItem>
+    <!--<StreamItem>
       <Id>Maraton24h</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
       <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
@@ -76,8 +76,8 @@
       <Order>4</Order>
       <BorderColor>#FFF5DA4F</BorderColor>
       <WebUrl>https://www.tilos.hu</WebUrl>
-    </StreamItem>
-    <StreamItem>
+    </StreamItem>-->
+    <!--<StreamItem>
       <Id>Maraton</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
       <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
@@ -90,7 +90,7 @@
       <Order>5</Order>
       <BorderColor>#FFF5DA4F</BorderColor>
       <WebUrl>https://www.tilos.hu</WebUrl>
-    </StreamItem>
+    </StreamItem>-->
     <!--<StreamItem>
       <Id>Samsara</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
