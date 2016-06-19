@@ -3,7 +3,7 @@
   <Version>1.0</Version>
   <AllowedApps>
     <Version>TilosRadio.WP7.*2.3.</Version>
-    <InvalidAppMessage>Új program a polcon! Érdemes frissíteni.</InvalidAppMessage>
+    <InvalidAppMessage>Új program a polcon! Érdemes frissíteni, keresd az áruházban.</InvalidAppMessage>
   </AllowedApps>
   <StreamList>
     <StreamItem>
