@@ -57,9 +57,9 @@
       <AlbumArtist>Tilos</AlbumArtist>
       <Title>Tilos Mese Rádió</Title>
       <StreamUrl>http://stream.tilos.hu:8000/mese</StreamUrl>
-      <ShortTitle>Mese</ShortTitle>
+      <ShortTitle>256k</ShortTitle>
       <Order>3</Order>
-      <BorderColor>#ffffaf4f</BorderColor>
+      <BorderColor>#ffffafaf</BorderColor>
       <WebUrl>http://tilos.hu</WebUrl>
     </StreamItem>
     <!--<StreamItem>
