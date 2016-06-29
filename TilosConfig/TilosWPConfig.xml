@@ -48,6 +48,20 @@
       <BorderColor>#fffbb050</BorderColor>
       <WebUrl>https://www.tilos.hu</WebUrl>
     </StreamItem>
+    <StreamItem>
+      <Id>mese</Id>
+      <AlbumArtUriKind>Relative</AlbumArtUriKind>
+      <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
+      <Album>Tilos Mesék</Album>
+      <Artist>Tilos Rádió</Artist>
+      <AlbumArtist>Tilos</AlbumArtist>
+      <Title>Tilos Mese Rádió</Title>
+      <StreamUrl>http://stream.tilos.hu:8000/mese</StreamUrl>
+      <ShortTitle>Mese</ShortTitle>
+      <Order>3</Order>
+      <BorderColor>#ffffaf4f</BorderColor>
+      <WebUrl>http://tilos.hu</WebUrl>
+    </StreamItem>
     <!--<StreamItem>
       <Id>Tordas1</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
