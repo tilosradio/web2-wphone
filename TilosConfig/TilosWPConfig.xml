@@ -132,5 +132,19 @@
       <BorderColor>#ffEE676D</BorderColor>
       <WebUrl>http://heyevent.com/event/wffm3mrohkykia/fmxxx-radio-corvin</WebUrl>
     </StreamItem>-->
+    <StreamItem>
+      <Id>Bankifest</Id>
+      <AlbumArtUriKind>Relative</AlbumArtUriKind>
+      <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
+      <Album>Radio Bank</Album>
+      <Artist>FM XXX /Tilos/</Artist>
+      <AlbumArtist>FM XXX /Tilos/</AlbumArtist>
+      <Title>FM XXX Radio Bank</Title>
+      <StreamUrl>http://stream.tilos.hu/radiobank</StreamUrl>
+      <ShortTitle>FM XXX Radio Bank</ShortTitle>
+      <Order>4</Order>
+      <BorderColor>#ffEE676D</BorderColor>
+      <WebUrl>http://tilos.hu</WebUrl>
+    </StreamItem>
   </StreamList>
 </TilosConfig>
