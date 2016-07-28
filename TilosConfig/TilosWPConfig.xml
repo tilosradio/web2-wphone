@@ -119,20 +119,6 @@
       <WebUrl>https://www.samsarafestival.eu</WebUrl>
     </StreamItem>-->
     <!--<StreamItem>
-      <Id>fmxxx</Id>
-      <AlbumArtUriKind>Relative</AlbumArtUriKind>
-      <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
-      <Album>FM XXX Radio Corvin</Album>
-      <Artist>FM XXX /Tilos/</Artist>
-      <AlbumArtist>FM XXX /Tilos/</AlbumArtist>
-      <Title>FM XXX Radio Corvin</Title>
-      <StreamUrl>http://stream.tilos.hu:8000/radiocorvin</StreamUrl>
-      <ShortTitle>FM XXX Radio Corvin</ShortTitle>
-      <Order>4</Order>
-      <BorderColor>#ffEE676D</BorderColor>
-      <WebUrl>http://heyevent.com/event/wffm3mrohkykia/fmxxx-radio-corvin</WebUrl>
-    </StreamItem>-->
-    <StreamItem>
       <Id>Bankifest</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
       <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
@@ -145,6 +131,6 @@
       <Order>4</Order>
       <BorderColor>#ffEE676D</BorderColor>
       <WebUrl>http://tilos.hu</WebUrl>
-    </StreamItem>
+    </StreamItem>-->
   </StreamList>
 </TilosConfig>
