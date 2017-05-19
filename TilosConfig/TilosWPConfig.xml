@@ -62,6 +62,22 @@
       <BorderColor>#ffffafaf</BorderColor>
       <WebUrl>http://tilos.hu</WebUrl>
     </StreamItem>
+    <StreamItem>
+      <Id>Jazz</Id>
+      <AlbumArtUriKind>Relative</AlbumArtUriKind>
+      <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
+      <Album>Jazz Radio</Album>
+      <Artist>Tilos Radio</Artist>
+      <AlbumArtist>Tilos</AlbumArtist>
+      <Title>Tilos Jazz Radio</Title>
+      <StreamUrl>http://stream.tilos.hu:8000/jazz</StreamUrl>
+      <ShortTitle>256k</ShortTitle>
+      <Order>4</Order>
+      <BorderColor>#ffffffff</BorderColor>
+      <WebUrl>https://www.tilos.hu</WebUrl>
+    </StreamItem>
+
+
     <!--<StreamItem>
       <Id>Tordas1</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
