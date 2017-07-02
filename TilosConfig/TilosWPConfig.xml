@@ -62,6 +62,7 @@
       <BorderColor>#ffffafaf</BorderColor>
       <WebUrl>http://tilos.hu</WebUrl>
     </StreamItem>
+
     <StreamItem>
       <Id>Jazz</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
@@ -76,7 +77,24 @@
       <BorderColor>#ffffffff</BorderColor>
       <WebUrl>https://www.tilos.hu</WebUrl>
     </StreamItem>
+
     <StreamItem>
+      <Id>Szoveg</Id>
+      <AlbumArtUriKind>Relative</AlbumArtUriKind>
+      <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
+      <Album>Szöveges Rádió</Album>
+      <Artist>Tilos Radio</Artist>
+      <AlbumArtist>Tilos</AlbumArtist>
+      <Title>Tilos Szöveges Rádió</Title>
+      <StreamUrl>http://stream.tilos.hu:8000/szoveg</StreamUrl>
+      <ShortTitle>256k</ShortTitle>
+      <Order>5</Order>
+      <BorderColor>#ff1f2f3f</BorderColor>
+      <WebUrl>https://www.tilos.hu</WebUrl>
+    </StreamItem>
+
+
+    <!--<StreamItem>
       <Id>Maraton</Id>
       <AlbumArtUriKind>Relative</AlbumArtUriKind>
       <AlbumArtUrl>Shared/Media/TilosRadioIcon.jpg</AlbumArtUrl>
@@ -89,7 +107,7 @@
       <Order>5</Order>
       <BorderColor>#FFF5DA4F</BorderColor>
       <WebUrl>https://www.tilos.hu</WebUrl>
-    </StreamItem>
+    </StreamItem>-->
 
 
     <!--<StreamItem>
