@@ -1,0 +1,178 @@
+﻿{
+  "configVersion": {
+    "major": "2",
+    "minor": "0"
+  },
+  "technicalStreamGroup": {
+    "groupId": "technical",
+    "groupName": "Technika",
+    "isEnabled": true
+  },
+  "fmStreamGroupList": [
+    {
+      "groupId": "head",
+      "groupName": "Extra",
+      "isEnabled": true,
+      "streamList": [
+        {
+          "isEnabled": true,
+          "isLiveStream": true,
+          "isArchiveStream": false,
+          "isMixStream": false,
+          "url": "http://stream.tilos.hu:8000/maraton",
+          "streamId": "/maraton",
+          "episodeUrl": "maraton",
+          "streamName": "Tilos Maraton",
+          "title": "maraton",
+          "artist": "Tilos Radio Extra",
+          "genre": "onAir",
+          "bitRate": 256,
+          "backgroundColor": "#aa11aa11"
+        },
+        {
+          "isEnabled": true,
+          "isLiveStream": true,
+          "isArchiveStream": false,
+          "isMixStream": false,
+          "url": "http://stream.tilos.hu:8000/fmxxx",
+          "streamId": "/fmxxx",
+          "episodeUrl": "FM XXX",
+          "streamName": "FM XXX",
+          "title": "FM XXX",
+          "artist": "Tilos Radio Extra",
+          "genre": "onAir",
+          "bitRate": 256,
+          "backgroundColor": "#aa11aa11"
+        }
+      ]
+    },
+    {
+      "groupId": "fm",
+      "groupName": "FM adás",
+      "isEnabled": true,
+      "streamList": [
+        {
+          "isEnabled": true,
+          "isLiveStream": true,
+          "isArchiveStream": false,
+          "isMixStream": false,
+          "url": "http://stream.tilos.hu/tilos",
+          "streamId": "/tilos",
+          "episodeUrl": "",
+          "streamName": "Tilos Rádio",
+          "title": "FM 256k",
+          "artist": "Tilos Radio FM",
+          "genre": "onAir",
+          "bitRate": 256,
+          "backgroundColor": "#aadd4c3b"
+        },
+        {
+          "isEnabled": true,
+          "isLiveStream": true,
+          "isArchiveStream": false,
+          "isMixStream": false,
+          "url": "http://stream.tilos.hu/tilos_128.mp3",
+          "streamId": "/tilos_128.mp3",
+          "episodeUrl": "",
+          "streamName": "Tilos Rádio",
+          "title": "FM 128k",
+          "artist": "Tilos Radio FM",
+          "genre": "onAir",
+          "bitRate": 128,
+          "backgroundColor": "#aa5cb85c"
+        },
+        {
+          "isEnabled": true,
+          "isLiveStream": true,
+          "isArchiveStream": false,
+          "isMixStream": false,
+          "url": "http://stream.tilos.hu/tilos_32.mp3",
+          "streamId": "/tilos_32.mp3",
+          "episodeUrl": "",
+          "streamName": "Tilos Rádio",
+          "title": "FM 32k",
+          "artist": "Tilos Radio FM",
+          "genre": "onAir",
+          "bitRate": 32,
+          "backgroundColor": "#aafcb150"
+        }
+      ]
+    }
+  ],
+  "otherStreamGroupList": [
+    {
+      "groupId": "other",
+      "groupName": "Mindenmás",
+      "isEnabled": true,
+      "streamList": [
+        {
+          "isEnabled": true,
+          "isLiveStream": true,
+          "isArchiveStream": false,
+          "isMixStream": false,
+          "url": "http://stream.tilos.hu:8000/mese",
+          "streamId": "/mese",
+          "episodeUrl": "mese",
+          "streamName": "Tilos Mesék",
+          "title": "mese",
+          "artist": "Tilos Radio Mindenmás",
+          "genre": "onAir",
+          "bitRate": 256,
+          "backgroundColor": "#aa3333aa"
+        },
+        {
+          "isEnabled": true,
+          "isLiveStream": true,
+          "isArchiveStream": false,
+          "isMixStream": false,
+          "url": "http://stream.tilos.hu:8000/szoveg",
+          "streamId": "/szoveg",
+          "episodeUrl": "szoveg",
+          "streamName": "Okosodj!",
+          "title": "Okosodj!",
+          "artist": "Tilos Radio Mindenmás",
+          "genre": "onAir",
+          "bitRate": 256,
+          "backgroundColor": "#aa3333aa"
+        },
+        {
+          "isEnabled": true,
+          "isLiveStream": true,
+          "isArchiveStream": false,
+          "isMixStream": false,
+          "url": "http://stream.tilos.hu:8000/jazzisdead",
+          "streamId": "/jazzisdead",
+          "episodeUrl": "jazz",
+          "streamName": "Jazz is Dead?",
+          "title": "Jazz is Dead?",
+          "artist": "Tilos Radio Mindenmás",
+          "genre": "onAir",
+          "bitRate": 256,
+          "backgroundColor": "#aa3333aa"
+        }
+      ]
+    },
+    {
+      "groupId": "otherradio",
+      "groupName": "Társrádió",
+      "isEnabled": true,
+      "streamList": [
+        {
+          "isEnabled": true,
+          "isLiveStream": true,
+          "isArchiveStream": false,
+          "isMixStream": false,
+          "url": "http://stream.tilos.hu:8000/tordas_radio_online",
+          "streamId": "Tordas Radio stream from Cocos Island",
+          "episodeUrl": "mese",
+          "streamName": "Tordas Radio stream from Cocos Island",
+          "title": "Tordas Radio stream from Cocos Island",
+          "artist": "Tordas Radio",
+          "genre": "onAir",
+          "bitRate": 192,
+          "backgroundColor": "#aa2222bb"
+        }
+      ]
+    }
+  ]
+}
