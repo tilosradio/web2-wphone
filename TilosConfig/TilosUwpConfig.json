@@ -9,6 +9,8 @@
     ],
     "Message": "Nem jo a verzio"
   },
+  "ApiV1RootUrl": "https://tilos.hu",
+  "IcecastRootUrl": "http://stream.tilos.hu",
   "IceStatTimerPeriod": 20,
   "EpisodeNowTimerPeriod": 120,
   "LiveEpisodesCount": 50,
@@ -17,7 +19,7 @@
   "TechnicalStreamGroup": {
     "GroupId": "technical",
     "GroupName": "Technika",
-    "IsEnabled": true
+    "IsEnabled": false
   },
   "Banner": {
     "IsEnabled": false,
@@ -26,12 +28,12 @@
   },
   "FmStreamGroupList": [
     {
-      "GroupId": "head",
+      "GroupId": "extra",
       "GroupName": "Maraton",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "StreamList": [
         {
-          "IsEnabled": true,
+          "IsEnabled": false,
           "IsIcecastStream": true,
           "IsLiveStream": true,
           "IsArchiveStream": false,
