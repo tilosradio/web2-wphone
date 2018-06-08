@@ -39,7 +39,7 @@
           "IsArchiveStream": false,
           "IsMixStream": false,
           "Url": "http://stream.tilos.hu:8000/tilos_maraton_live",
-          "StreamId": "Tilos Maraton - Live",
+          "StreamId": "Tilos",
           "EpisodeUrl": "maraton",
           "StreamName": "Tilos Maraton - Live",
           "Title": "Tilos Maraton - Live",
