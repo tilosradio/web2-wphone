@@ -29,24 +29,24 @@
   "FmStreamGroupList": [
     {
       "GroupId": "extra",
-      "GroupName": "Maraton",
-      "IsEnabled": false,
+      "GroupName": "Maraton 2018",
+      "IsEnabled": true,
       "StreamList": [
         {
-          "IsEnabled": false,
+          "IsEnabled": true,
           "IsIcecastStream": true,
           "IsLiveStream": true,
           "IsArchiveStream": false,
           "IsMixStream": false,
-          "Url": "http://stream.tilos.hu:8000/maraton",
-          "StreamId": "/maraton",
+          "Url": "http://stream.tilos.hu/tilos_maraton",
+          "StreamId": "/tilos_maraton",
           "EpisodeUrl": "maraton",
           "StreamName": "Tilos Maraton",
           "Title": "maraton",
-          "Artist": "Tilos Radio Extra",
+          "Artist": "Tilos Radio Maraton",
           "Genre": "onAir",
-          "BitRate": 256,
-          "BackgroundColor": "#aa11aa11"
+          "BitRate": 170,
+          "BackgroundColor": "#aaf4e422"
         },
         {
           "IsEnabled": false,
