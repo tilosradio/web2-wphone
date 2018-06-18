@@ -30,10 +30,10 @@
     {
       "GroupId": "extra",
       "GroupName": "Maraton 2018",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "StreamList": [
         {
-          "IsEnabled": true,
+          "IsEnabled": false,
           "IsIcecastStream": true,
           "IsLiveStream": true,
           "IsArchiveStream": false,
@@ -49,7 +49,7 @@
           "BackgroundColor": "#aaf4e422"
         },
         {
-          "IsEnabled": true,
+          "IsEnabled": false,
           "IsIcecastStream": true,
           "IsLiveStream": true,
           "IsArchiveStream": false,
