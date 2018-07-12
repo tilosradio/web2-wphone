@@ -29,8 +29,8 @@
   "FmStreamGroupList": [
     {
       "GroupId": "extra",
-      "GroupName": "Maraton 2018",
-      "IsEnabled": false,
+      "GroupName": "Bánkitó 2018",
+      "IsEnabled": true,
       "StreamList": [
         {
           "IsEnabled": false,
@@ -62,6 +62,22 @@
           "Artist": "Tilos Radio",
           "Genre": "onAir",
           "BitRate": 170,
+          "BackgroundColor": "#aaf4e422"
+        },
+        {
+          "IsEnabled": true,
+          "IsIcecastStream": true,
+          "IsLiveStream": true,
+          "IsArchiveStream": false,
+          "IsMixStream": false,
+          "Url": "http://stream.tilos.hu:8000/radiobank",
+          "StreamId": "/radiobank",
+          "EpisodeUrl": "maraton",
+          "StreamName": "tilos caravan",
+          "Title": "Mobil közvetítő kocsi",
+          "Artist": "Tilos Radio",
+          "Genre": "onAir",
+          "BitRate": 128,
           "BackgroundColor": "#aaf4e422"
         },
         {
