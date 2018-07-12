@@ -71,7 +71,7 @@
           "IsArchiveStream": false,
           "IsMixStream": false,
           "Url": "http://stream.tilos.hu:8000/radiobank",
-          "StreamId": "/radiobank",
+          "StreamId": "tilos caravan",
           "EpisodeUrl": "maraton",
           "StreamName": "tilos caravan",
           "Title": "Mobil közvetítő kocsi",
