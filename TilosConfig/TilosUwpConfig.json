@@ -29,8 +29,8 @@
   "FmStreamGroupList": [
     {
       "GroupId": "extra",
-      "GroupName": "Bánkitó 2018",
-      "IsEnabled": false,
+      "GroupName": "Samsara",
+      "IsEnabled": true,
       "StreamList": [
         {
           "IsEnabled": false,
@@ -78,6 +78,22 @@
           "Artist": "Tilos Radio",
           "Genre": "onAir",
           "BitRate": 128,
+          "BackgroundColor": "#aaf4e422"
+        },
+        {
+          "IsEnabled": true,
+          "IsIcecastStream": true,
+          "IsLiveStream": true,
+          "IsArchiveStream": false,
+          "IsMixStream": false,
+          "Url": "http://stream.tilos.hu:8000/tilos_samsara_live",
+          "StreamId": "Samsara Festival - Tilos Forest Stage",
+          "EpisodeUrl": "samsara",
+          "StreamName": "Samsara Festival - Tilos Forest Stage",
+          "Title": "Samsara Festival - Tilos Forest Stage",
+          "Artist": "Tilos Radio",
+          "Genre": "onAir",
+          "BitRate": 256,
           "BackgroundColor": "#aaf4e422"
         },
         {
