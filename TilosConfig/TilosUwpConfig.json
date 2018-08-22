@@ -30,7 +30,7 @@
     {
       "GroupId": "extra",
       "GroupName": "Samsara",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "StreamList": [
         {
           "IsEnabled": false,
@@ -81,7 +81,7 @@
           "BackgroundColor": "#aaf4e422"
         },
         {
-          "IsEnabled": true,
+          "IsEnabled": false,
           "IsIcecastStream": true,
           "IsLiveStream": true,
           "IsArchiveStream": false,
