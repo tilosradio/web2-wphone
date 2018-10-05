@@ -19,7 +19,7 @@
   "TechnicalStreamGroup": {
     "GroupId": "technical",
     "GroupName": "Technika",
-    "IsEnabled": false
+    "IsEnabled": true
   },
   "Banner": {
     "IsEnabled": false,
