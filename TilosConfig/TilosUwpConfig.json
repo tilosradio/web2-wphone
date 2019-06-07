@@ -29,8 +29,8 @@
   "FmStreamGroupList": [
     {
       "GroupId": "extra",
-      "GroupName": "Samsara",
-      "IsEnabled": false,
+      "GroupName": "Maraton",
+      "IsEnabled": true,
       "StreamList": [
         {
           "IsEnabled": false,
@@ -49,12 +49,12 @@
           "BackgroundColor": "#aaf4e422"
         },
         {
-          "IsEnabled": false,
+          "IsEnabled": true,
           "IsIcecastStream": true,
           "IsLiveStream": true,
           "IsArchiveStream": false,
           "IsMixStream": false,
-          "Url": "http://stream.tilos.hu:8000/tilos_maraton",
+          "Url": "http://stream.tilos.hu:8000/maraton",
           "StreamId": "Tilos Maraton",
           "EpisodeUrl": "maraton",
           "StreamName": "Tilos Maraton",
