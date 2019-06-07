@@ -38,7 +38,7 @@
           "IsLiveStream": true,
           "IsArchiveStream": false,
           "IsMixStream": false,
-          "Url": "http://stream.tilos.hu:8000/tilos_maraton_szinpad",
+          "Url": "http://stream.tilos.hu:8000/maraton_szinpad",
           "StreamId": "Tilos Maraton Live",
           "EpisodeUrl": "maraton",
           "StreamName": "Tilos Maraton Live",
