@@ -30,7 +30,7 @@
     {
       "GroupId": "extra",
       "GroupName": "Maraton",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "StreamList": [
         {
           "IsEnabled": true,
