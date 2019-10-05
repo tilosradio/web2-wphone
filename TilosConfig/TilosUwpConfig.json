@@ -126,7 +126,7 @@
           "IsArchiveStream": false,
           "IsMixStream": false,
           "Url": "http://stream.tilos.hu:8000/tilos",
-          "StreamId": "/tilos",
+          "StreamId": "Tilos Radio, 256kbps, FM 90.3",
           "EpisodeUrl": "",
           "StreamName": "Tilos Rádio",
           "Title": "FM 90.3, 256k",
