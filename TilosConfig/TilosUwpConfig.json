@@ -1,16 +1,18 @@
 ﻿{
   "ConfigVersion": {
     "Major": "2",
-    "Minor": "0"
+    "Minor": "1"
   },
   "ApplicationVersionInfo": {
     "AllowedVersionPatternList": [
-      "3.0.0"
+      "3.0.0",
+      "3.1.0"
     ],
     "Message": "Nem jo a verzio"
   },
   "ApiV1RootUrl": "https://tilos.hu",
   "IcecastRootUrl": "http://stream.tilos.hu",
+  "IcecastJsonFunction": "/status-json.xsl",
   "IceStatTimerPeriod": 20,
   "EpisodeNowTimerPeriod": 120,
   "LiveEpisodesCount": 50,
